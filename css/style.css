@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 450px;
+    margin: 0.5rem;
+}
+
+
+.slide{
+    display: none;
+}
+
+.active{
+    display: block;
+}
